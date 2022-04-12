@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="https://laravel.com/docs">dokumen</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                      <a href="https://github.com/salza2020">Nazier ali fahmi</a>
                 </div>
