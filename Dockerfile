@@ -3,7 +3,6 @@ FROM marcusmyers/laravel
 #HEALTHCHECK CMD curl -f http://localhost:8000/status || exit 1
 #STOPSIGNAL SIGKILL
 
-EXPOSE 80
 EXPOSE 8000
 
 COPY . /usr/share/nginx/html;
